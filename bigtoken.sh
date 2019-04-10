@@ -63,8 +63,8 @@ bigtoken(){
 echo
 }
 
-ref="" 		# Code Referal kamu
-waitingCheckInbox="60" 	# 60s / 1 menit Waktu tunggu untuk membaca inbox
+ref="7C70QAO1F" 		# Code Referal kamu
+waitingCheckInbox="2" 	# 60s / 1 menit Waktu tunggu untuk membaca inbox
 
 cat <<EOF
 
